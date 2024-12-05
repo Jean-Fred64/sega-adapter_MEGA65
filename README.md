@@ -1,6 +1,6 @@
-# Sega Mega Drive (Genesis) controller to Atari 8-bit adapter
+# Sega Mega Drive (Genesis) controller to MEGA65
 
-Adapt a Sega Mega Drive controller to the 9-pin Atari joystick standard
+Adapt a Sega Mega Drive controller to the 9-pin joystick standard
 using a Microchip PIC 16F1847 microcontroller.
 
 ![An 8BitDo M30 controller above an uncased circuit board populated with
@@ -191,9 +191,9 @@ These devices will not work and should not be plugged in to the adapter.
 ## Build
 
 The schematics and parts list for the adapter are in the [kicad
-directory](kicad).  If you don't already have a preferred way to
-manufacture a PCB, you can order a set of three from [OSH
-Park](https://oshpark.com/shared_projects/Nn84QTsl).  You also need a
+directory](KiCad).  If you don't already have a preferred way to
+manufacture a PCB, you can order [original PCB](https://github.com/eyvind/sega-adapter) a set of three from OSH
+Park.  You also need a
 way to [program the microcontroller](#program).
 
 
@@ -201,8 +201,9 @@ way to [program the microcontroller](#program).
 
 [JOY-2-PIC](https://ataribits.weebly.com/joy2pic.html) can program a PIC
 using an Atari 8-bit computer's joystick port.  Boot from the .atr image
-attached to each release to start programming.  If you have a USB PIC
-programmer connected to a PC, use the .hex file instead.
+attached to each release to start programming.
+If you have a USB PIC programmer connected to a PC, use the .hex file instead.
+For XGecu T48 programmer (TL866 3rd generation) select 
 
 
 ## Modify
