@@ -3,13 +3,6 @@
 This PCB features a detachable ribbon cable to connect it to the
 computer and an optional jumper to switch the adapter to C64 mode.
 
-PCBs can be ordered in sets of three from [OSH
-Park](https://oshpark.com/shared_projects/Nn84QTsl), or any other PCB
-manufacturer that accepts KiCad schematics.
-
-The previously available alternative versions of the PCB have been
-removed for simplicity.  They can still be found in git history.
-
 DigiKey part numbers are provided as a convenience but alternative
 parts can certainly be used.
 
