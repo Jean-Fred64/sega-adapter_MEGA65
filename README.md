@@ -186,9 +186,10 @@ These devices will not work and should not be plugged in to the adapter.
 
 ## Build
 
+![PCB MEGA 65](img/Sega%20Adapter%20_%20PCB%20MEGA65%20version.jpg)
 The schematics and parts list for the adapter are in the [kicad
 directory](KiCad).  If you don't already have a preferred way to
-manufacture a PCB, you can order [original PCB](https://github.com/eyvind/sega-adapter) a set of three from OSH
+manufacture a PCB, you can order a set of three [original PCB](https://github.com/eyvind/sega-adapter) from OSH
 Park.  You also need a
 way to [program the microcontroller](#program).
 
@@ -198,9 +199,12 @@ way to [program the microcontroller](#program).
 [JOY-2-PIC](https://ataribits.weebly.com/joy2pic.html) can program a PIC
 using an Atari 8-bit computer's joystick port.  Boot from the .atr image
 attached to each release to start programming.
-If you have a USB PIC programmer connected to a PC, use the .hex file instead.
-For XGecu T48 programmer (TL866 3rd generation) select 
 
+If you have a USB PIC programmer connected to a PC, use the .hex file instead.
+
+![T48](img/T48%20program%20PIC16F1847.jpg)
+For XGecu T48 programmer (TL866 3rd generation) select PIC16F1827 uncheck "Check ID"
+![T48 PIC16F1827](img/Program%20PIC16F1847%20setup%20PIC16F1827%20on%20T48.jpg)
 
 ## Modify
 
