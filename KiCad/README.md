@@ -8,7 +8,7 @@ parts can certainly be used.
 
 
 ## BOM
-[eBOM](blob/master/KiCad/bom/ibom.html)
+[eBOM](bom/ibom.html)
 
 | Component | DigiKey part number |
 | --- | --- |
