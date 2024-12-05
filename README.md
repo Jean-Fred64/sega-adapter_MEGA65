@@ -3,11 +3,7 @@
 Adapt a Sega Mega Drive controller to the 9-pin joystick standard
 using a Microchip PIC 16F1847 microcontroller.
 
-![An 8BitDo M30 controller above an uncased circuit board populated with
-an 18-pin chip, a capacitor, a male DE-9 socket, and an IDC-connected
-ribbon cable terminated by a female DE-9 plug. An 8BitDo Retro receiver
-is plugged in to the adapter](img/adapter.jpeg)
-
+![MEGA65 version](img/Sega%20Adapter%20_%20MEGA65%20_%20M30.jpg)
 This adapter is compatible with [most
 computers](#computer-compatibility) that use the Atari 9-pin joystick
 connector, supporting most of the features of [Sega Mega Drive
