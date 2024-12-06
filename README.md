@@ -119,7 +119,7 @@ button will appear to be continually held down.
 The adapter has mostly been tested on 8-bit Ataris using
 [Joy2B+](https://github.com/ascrnet/Joy2Bplus) enhanced games.
 
-### 8-bit Commodore computers
+### 8-bit Commodore computers and MEGA65
 
 The C64, C128, and VIC-20 can also read the second and third buttons.
 The extra buttons on these machines are active high, which is opposite
